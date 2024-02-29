@@ -1,1 +1,1 @@
-# HappyHomeSymfo
+Bienvenue sur notre projet!
